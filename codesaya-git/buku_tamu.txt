@@ -1,0 +1,108 @@
+## Buku Tamu
+#
+# - Ubah file ini dengan menambahkan data diri anda di akhir file ini
+# - Dilarang untuk menghapus data yang sudah ada
+# - Format penulisannya seperti berikut:
+# 
+#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
+#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
+#   Github: [wajib, masukkan username anda di Github]
+#   Nama: [Opsional]
+#   Website: [Opsional]
+#   Pesan: [Opsional]
+#
+# - Berikan satu baris kosong setelah setiap entry-nya
+# - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
+#
+
+Entry: 1
+CodeSaya: ganis
+Github: ganiszulfa
+Nama: Ganis
+Website: http://ganiseu.wordpress.com/
+Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
+
+Entry: 2
+CodeSaya: mystogan
+Github: januri
+Nama: Januri
+Website: http://www.situstarget.com/
+Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah apapun itu, ya semoga admin ganis tidak sibuk untuk menambahkan materi lain, gimana kalo dibuatkan juga sertifikat lulus materi? kaya setelah menyelesaikan Hour of Code lalu dapet sertifikat yang atas nama sendiri untuk disimpan dalam jpeg atau pdf. Terimakasih.
+
+Entry: 3
+CodeSaya: syamcode
+Github: syamcode
+Nama: -
+Website: -
+Pesan: -
+
+Entry: 4
+CodeSaya: anefirman
+Github: anefirman
+Nama: Ane Firman
+Website: www.anefirman.com
+Pesan: Kreatif banget , semoga banyak fitur baru
+
+Entry: 5
+CodeSaya: dinan354
+Github: dinan354
+Nama: Dinan Riqal Firdaus 
+Website: https://dinanrihal.io
+Pesan: Semoga kedepannya makin maju dan sukses, tambahkan lebih banyak fitur2 gila lainnya
+
+Entry: 6
+CodeSaya: irmanfrm
+Github: irmanfrm
+Nama: Irman Firmansyah
+Website: -
+Pesan: keren nih, maju terus CodeSaya
+
+Entry: 7
+CodeSaya: codecreativ
+Github: codecreativ
+Nama: Ronald
+Website: garisbumi.com
+Pesan: Go, Open Source Indonesia!
+
+Entry: 8
+CodeSaya: succi23
+Github: succi23
+Nama: Suci Sukawana
+Website: succi-23.blogspot.com
+Pesan: I Love Programming
+
+Entry: 9
+Codesaya: jkprasaja
+Github: jkprasaja
+Nama: Jaka
+Website: 
+Pesan: Belajar Git di Codesaya menyenangkan dan mudah.
+
+Entry: 10
+CodeSaya: ebta
+Github: ebta
+Nama: Ebta Setiawan
+Website: http://ebsoft.web.id
+Pesan: Sipp.. lanjutkan, berbagi ilmu yg bermanfaat..
+
+Entry: 11
+CodeSaya: Aguuung
+Github: Aguuung
+Nama: Agung Anugerah
+Website: 
+Pesan: Seruu nihh.. Ditunggu Updatenyaa.
+
+Entry: 12
+CodeSaya: malioboro
+Github: rianrajagede
+Nama: Rian Rajagede
+Website: rianrajagede.wordpress.com
+Pesan: Mudah dipahami untuk pemula, Semoga bisa terus update dan berkembang
+
+Entry: 13
+CodeSaya: neyh101
+Github: neyh101
+Nama: barkah
+Website: - belom bikin -
+Pesan: saya belajar dari 0 sampai mengerti dasar programming web. Beberapa materi ada yg agak sulit dipahami tapi ada yg mudah.Kembangin terus master! Kalo bisa ajarin juga setelah lulus dari sini, cara nyari uangnya gimana hehe.. Biar ilmunya bisa menghasilkan juga :D
+
